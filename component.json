@@ -1,0 +1,15 @@
+{
+  "name": "source-code-bold",
+  "repo": "typefaces/source-code-bold",
+  "description": "The Source Code bold typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "fonts": [
+    "fonts/source-code-bold.eot",
+    "fonts/source-code-bold.ttf",
+    "fonts/source-code-bold.woff"
+  ]
+}
