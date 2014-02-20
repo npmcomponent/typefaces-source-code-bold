@@ -1,0 +1,10 @@
+{
+  "name": "typefaces-source-code-bold",
+  "description": "The Source Code bold typeface.",
+  "version": "0.0.1",
+  "styles": [
+    "index.css"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
